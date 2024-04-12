@@ -5,3 +5,7 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+function openCartModal() {
+    const cartModal = document.querySelector('#cartModal');
+    cartModal.classList.toggle('show');
+}
