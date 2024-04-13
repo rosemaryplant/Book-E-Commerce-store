@@ -46,8 +46,8 @@ abstract class Person {
         return lastSeen;
     }
 
-    public void setLastSeen(LocalDateTime lastSeen) {
-        this.lastSeen = lastSeen;
+    public void setLastSeen(LocalDateTime localDateTime) {
+        this.lastSeen = localDateTime;
     }
 
     public String getPostalAdress() {
