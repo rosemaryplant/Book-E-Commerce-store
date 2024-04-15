@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" The Women",
+        "price": 200,
+        "image": "image/woman book.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Just For The Summer",
+        "price": 250,
+        "image": "image/just for the summer.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Oh,The Places You'll Go!",
+        "price": 290,
+        "image": "image/places.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Funny Story",
+        "price": 200,
+        "image": "image/funny.jpg"
+    },
+    {
+        "id": 5,
+        "name":" The Teacher",
+        "price": 300,
+        "image": "image/the teacher.jpg"
+    },
+    {
+        "id": 6,
+        "name":" The Housemaid",
+        "price": 200,
+        "image": "image/the housemaid.jpg"
+    },
+    {
+        "id": 7,
+        "name":" table For Two",
+        "price": 200,
+        "image": "image/table for 2.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Iron Flame",
+        "price": 200,
+        "image": "image/iron flame.jpg"
+    }
+
+]
