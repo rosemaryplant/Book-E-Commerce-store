@@ -57,7 +57,7 @@ header{
     font-size: large;
 }
 .listProduct .item .price{
-    letter-spacing: 7px;
+    letter-spacing: 1px;
     font-size: small;
 }
 .listProduct .item button{
